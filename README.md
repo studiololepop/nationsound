@@ -1,2 +1,2 @@
 # nationsound
-APPLI pour u festival de musique
+Une application pour une festival de musique
